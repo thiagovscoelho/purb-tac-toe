@@ -63,39 +63,39 @@ You play as purb, who has now decided to play the game against yummi, the comput
 
 The following is an example game.
 
-	yummi:
-	1 2 3
-	4 x 5
-	6 7 8
-	purb (enter your move): 6
-	purb:
-		x  
-	  o    
-	yummi:
-	1 x 2 3
-	4 5 x 6
-	7 o 8 9
-	purb (enter your move): 8
-	purb:
-	  x    
-		x  
-	  o o  
-	yummi:
-	1 x 2
-	3 4 x
-	x o o
-	purb (enter your move): 4
-	purb:
-	  x  
-	  o x
-	x o o
-	yummi:
-	1 x 2
-	x o x
-	x o o
-	purb (enter your move): 1
-	purb:
-	o x  
-	x o x
-	x o o
-	purb wins!
+    yummi:
+    1 2 3
+    4 x 5
+    6 7 8
+    purb (enter your move): 6
+    purb:
+        x  
+      o    
+    yummi:
+    1 x 2 3
+    4 5 x 6
+    7 o 8 9
+    purb (enter your move): 8
+    purb:
+      x    
+        x  
+      o o  
+    yummi:
+    1 x 2
+    3 4 x
+    x o o
+    purb (enter your move): 4
+    purb:
+      x  
+      o x
+    x o o
+    yummi:
+    1 x 2
+    x o x
+    x o o
+    purb (enter your move): 1
+    purb:
+    o x  
+    x o x
+    x o o
+    purb wins!
