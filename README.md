@@ -53,7 +53,7 @@ inure:
 
 purb:
 
-    NOOOOOOOOOOOOOOOOO
+    NOOOOOOOOOOOOOOOO
 
 The messages consist in a form of tic-tac-toe played via text. However, the interesting fact is that the first few messages started out with a 1x1, then 2x2 grid, which was “expanded” up to 3x3 as new moves required it. This represents a new, unsolved variant of tic-tac-toe.
 
