@@ -7,42 +7,52 @@ Implements console-based gameplay of the Purb variant of tic-tac-toe against a c
 purb and inure [have sent each other](https://twitter.com/purrblind1/status/1700305986723139694) these text messages:
 
 inure:
+
     x
 
 purb:
+
     x o
 
 inure:
+
     x o
       x
 
 purb:
+
     x o
       x
         o
 
 inure:
+
     x o
       x
     x   o
 
 purb:
+
     x o o
       x
     x   o
 
 purb:
+
     wait
 
 inure:
+
     x o o
     x x
     x   o
 
 inure:
+
     I win
 
 purb:
+
     NOOOOOOOOOOOOOOOOO
 
 The messages consist in a form of tic-tac-toe played via text. However, the interesting fact is that the first few messages started out with a 1x1, then 2x2 grid, which was “expanded” up to 3x3 as new moves required it. This represents a new, unsolved variant of tic-tac-toe.
